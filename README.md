@@ -87,8 +87,5 @@
  We're are open to `enhancements` & `bug-fixes` :smile: 
 
 ------------------------------------------
-### Contributors
 
-- [@is4832](https://github.com/is4832)
-- [@gsethi156](https://github.com/gsethi156)
 
